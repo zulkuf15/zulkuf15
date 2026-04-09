@@ -3,6 +3,10 @@
 
 - 🔭 Şu anda **Devops** üzerinde çalışıyorum
 
+- ☁️ Cloud & Container Systems
+
+- 🐍 Python Automation
+ 
 - 📫 Bana nasıl ulaşabilirsiniz: **zulkufaytimr@gmail.com**
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
