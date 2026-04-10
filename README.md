@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Zulkuf Aytimur</h1>
-<h3 align="center">Türkiye'den tutkulu bir DevOps uzmanıyım</h3>
+<h3 align="center"> DevOps uzmanıyım</h3>
 
 - 🔭 Şu anda **Devops** üzerinde çalışıyorum
 
